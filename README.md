@@ -1,5 +1,5 @@
 # Data Serialization Formats - Cumulative Lab
-
+# A Basics Lab, getting to access different type of files, modify them, join them, create new files/databases, and extract information from it. 
 ## Introduction
 
 Now that you have learned about CSV and JSON file formats individually, it's time to bring them together with a cumulative lab! Even as a junior data scientist, you can often produce novel, interesting analyses by combining multiple datasets that haven't been combined before.
